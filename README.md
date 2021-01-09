@@ -3,8 +3,8 @@
 <img src="./images/git.png" style="text-align:center;">
 
 <dl>
- <dt style="color:green; font-weight:bold;">⭐️ git clone</dt>
-  <dd>Git clone is a command for downloading and existing repository. This creates an identical copy of the latest version to your local computer.</dd>
+ <h1 style="color:green; font-weight:bold;">⭐️ git clone</h1>
+  <p>Git clone is a command for downloading and existing repository. This creates an identical copy of the latest version to your local computer.</p>
 
    <dt style="color:green;font-weight:bold;">⭐️ git init</dt>
   <dd>Creates an empty Git repositorylll. An initial branch without any commits will be created.</dd>
