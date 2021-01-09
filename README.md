@@ -49,3 +49,8 @@
   Git merge integrates your feature branch with all of it's commits into your main branch. You may have to resolve some merge conflicts but once they have been sorted through you will be able to safely merge your feature branch into your main. 
   </p>
 
+## 🚨 References
+<ul>
+<li><a href="https://git-scm.com/docs">Git documentation</a></li>
+<li><a href="https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/">Free code camp- Git</a></li>
+</u.>
